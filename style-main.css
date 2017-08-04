@@ -1,8 +1,9 @@
 body
 {
-	background-color:black;
-	color:white;
+	/*background-color:black;*/
+	color:black;
 	font-family:"Open Sans";
+	background-image:url("https://cdn.discordapp.com/attachments/342827351501045760/342839926846521345/Collie.jpg");
 }
 
 div
