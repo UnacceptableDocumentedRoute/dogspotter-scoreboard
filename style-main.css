@@ -16,6 +16,7 @@ span#score
 	text-align:right;
 	display:block; 
 	position:relative; 
-	margin-bottom:-45px; 
+	margin-bottom:-45px;
+	margin-left:90%;
 	text-align:center;
 }
