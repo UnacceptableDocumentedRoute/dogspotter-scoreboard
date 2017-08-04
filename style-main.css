@@ -1,0 +1,21 @@
+body
+{
+	background-color:black;
+	color:white;
+	font-family:"Open Sans";
+}
+
+div
+{
+	background-color:#222;
+	padding:10px;
+}
+
+span#score
+{
+	text-align:right;
+	display:block; 
+	position:relative; 
+	margin-bottom:-45px; 
+	text-align:center;
+}
