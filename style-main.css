@@ -2,21 +2,26 @@ body
 {
 	/*background-color:black;*/
 	color:#00AAFF;
-	text-shadow:5px 5px 5px black;
 	font-family:"Open Sans";
 	background-image:url("https://cdn.discordapp.com/attachments/342827351501045760/342839926846521345/Collie.jpg");
-	background-size: 150% 150%;
-    	background-repeat: no-repeat;
+	background-size: 100% 150%;
+  `	background-repeat: no-repeat;
 }
 
 div
 {
-	background-color:#222;
+	background-color:#EEE;
 	padding:10px;
+}
+
+h1
+{
+	text-shadow:5px 5px 5px black;
 }
 
 span#score
 {
+	color:#FF0055;
 	text-align:right;
 	display:block; 
 	position:relative; 
