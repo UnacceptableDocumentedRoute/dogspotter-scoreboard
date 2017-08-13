@@ -31,5 +31,3 @@ firebase.auth().signInWithRedirect(provider);
 // 		name: value,
 // 	});
 // }
-
-// addPoints(test,20);
