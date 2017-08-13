@@ -14,6 +14,13 @@ div
 	padding:10px;
 }
 
+div#credit
+{
+	width:100%;
+	background-color:black;
+	color:white;
+}
+
 /*@media (max-width: 767px) 
 {
 	div
@@ -34,7 +41,7 @@ div#scorebox
 
 h1
 {
-	text-shadow:5px 5px 5px black;
+	text-shadow:2.5px 2.5px 2.5px black;
 }
 
 span#score
