@@ -17,9 +17,9 @@ div
 div#credit
 {
 	position:fixed;
-  bottom:0;
+	bottom:0;
 	right:0;
-  width:100%;
+	width:100%;
 	height:10%;
 	background-color:black;
 	color:white;
@@ -41,7 +41,7 @@ div#scorebox
 	width:25%; 
 	height:75%; 
 	overflow:scroll;
-	color:#000;
+	color:#5500FF;
 }
 
 h1
