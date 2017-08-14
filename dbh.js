@@ -25,7 +25,6 @@ firebase.auth().getRedirectResult().then(function(result)
 var provider = new firebase.auth.GoogleAuthProvider();
 provider.addScope('profile');
 provider.addScope('email');
-firebase.auth().signInWithRedirect(provider);
 
 // Create a function to get the value of data
 function getValue()
