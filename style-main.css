@@ -20,20 +20,24 @@ div#credit
 	bottom:0;
 	right:0;
 	width:100%;
+	height:1%;
+	background-color:white;
+	color:white;
+	transition:all 0.5s;
+}
+
+div#credit a
+{
+	color:white;
+	font-weight:bold;
+}
+
+div#credit:hover
+{
 	height:10%;
 	background-color:black;
 	color:white;
-	padding-left:20px;
 }
-
-/*@media (max-width: 767px) 
-{
-	div
-	{
-		background-color:black;
-	}
-}
-*/
 
 div#scorebox
 {
